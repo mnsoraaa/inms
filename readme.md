@@ -9,4 +9,4 @@
 
 ## About InMS
 
-This is industrial training web based on Laravel Framework.
+This is an industrial training management system based on Laravel framework.
